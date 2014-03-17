@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ebucore:ebuCoreMain xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dateLastModified="2013-11-04" schema="EBU_CORE_20110531.xsd" version="1.4" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ebucore="urn:ebu:metadata-schema:ebuCore_2012" xsi:schemaLocation="urn:ebu:metadata-schema:ebuCore_2012 C:\Users\Trine\Downloads\EBU_CORE_20130107\EBU_CORE_20130107.xsd" xml:lang="en">
+	<ebucore:coreMetaData>
+		<ebucore:title>
+			<dc:title xml:lang="no">konsert_dag3.mp4</dc:title>
+		</ebucore:title>
+		<ebucore:format>
+			<dc:format>Video</dc:format>
+		</ebucore:format>
+		<ebucore:description>
+			<dc:description xml:lang="no">Konsert dag 3</dc:description>
+		</ebucore:description>
+		<ebucore:part partName="Framføringskategorier" partTotalnumber="3">
+			<ebucore:part partName="På plass - klargjøring">
+				<partStartTime>241</partStartTime>
+				<partDuration>51</partDuration>
+			</ebucore:part>
+			<ebucore:part partName="Forestilling_start-slutt">
+				<partStartTime>291</partStartTime>
+				<partDuration>3155</partDuration>
+			</ebucore:part>
+			<ebucore:part partName="Applaus">
+				<partStartTime>3450</partStartTime>
+				<partDuration>42</partDuration>
+			</ebucore:part>
+		</ebucore:part>
+		<ebucore:part partName="Spillemåte(CH)" partTotalnumber="4">
+			<ebucore:part partName="Køller">
+				<partStartTime>292</partStartTime>
+				<partDuration>211</partDuration>
+			</ebucore:part>
+			<ebucore:part partName="Hender på trommeskinn">
+				<partStartTime>510</partStartTime>
+				<partDuration>90</partDuration>
+			</ebucore:part>
+			<ebucore:part partName="Spille med hånd (H) og kølle (V)">
+				<partStartTime>600</partStartTime>
+				<partDuration>212</partDuration>
+			</ebucore:part>
+			<ebucore:part partName="Plastvisper">
+				<partStartTime>968</partStartTime>
+				<partDuration>626</partDuration>
+			</ebucore:part>
+		</ebucore:part>
+	</ebucore:coreMetaData>
+</ebucore:ebuCoreMain>
