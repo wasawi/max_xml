@@ -25,9 +25,21 @@
 			</ebucore:part>
 		</ebucore:part>
 		<ebucore:part partName="Spillemåte(CH)" partTotalnumber="4">
-			<ebucore:part partName="Køller">
-				<partStartTime>292</partStartTime>
-				<partDuration>211</partDuration>
+			<ebucore:part partName="Køller1">
+				<ebucore:part partName="Køller11">
+					<partStartTime>292</partStartTime>
+					<partDuration>211</partDuration>
+				</ebucore:part>
+				<ebucore:part partName="Køller12">
+					<ebucore:part partName="Køller121">
+						<partStartTime>292</partStartTime>
+						<partDuration>211</partDuration>
+					</ebucore:part>
+					<ebucore:part partName="Køller122">
+						<partStartTime>292</partStartTime>
+						<partDuration>211</partDuration>
+					</ebucore:part>
+				</ebucore:part>
 			</ebucore:part>
 			<ebucore:part partName="Hender på trommeskinn">
 				<partStartTime>510</partStartTime>
